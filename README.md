@@ -1,2 +1,2 @@
 # c-projects
-C++ Projects
+C++ Programming
